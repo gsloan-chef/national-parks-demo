@@ -1,7 +1,7 @@
 pkg_name=national-parks
 pkg_description="A sample JavaEE Web app deployed in the Tomcat8 package"
 pkg_origin=gsloan-chef
-pkg_version=7.3.2
+pkg_version=7.3.3
 pkg_maintainer="Greg Sloan <gsloan@chef.io>"
 pkg_license=('Apache-2.0')
 pkg_deps=(core/tomcat8 core/corretto core/mongo-tools)
